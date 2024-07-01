@@ -54,7 +54,9 @@ const setSidebarOpen = (value = true) => {
                 <div class="header-action">
                   <ul class="list-wrap">
                     <li class="header-login">
-                      <a href="#">PLAY NOW<i class="fas fa-user"></i></a>
+                      <a href="https://play.usdtpoker.club"
+                        >PLAY NOW<i class="fas fa-user"></i
+                      ></a>
                     </li>
                     <li class="offcanvas-menu">
                       <a
